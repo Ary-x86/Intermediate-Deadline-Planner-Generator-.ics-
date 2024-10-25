@@ -1,0 +1,41 @@
+first time using git lol
+
+init folder
+git init
+
+stage files for first commit = selecting files to include in snapshot of project
+staged = marked for tracking to be saved in a commit
+git add . ataged all files
+git add .
+
+git commit -m "Initial commit"
+-m is message
+
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+
+git remote add origin <URL>
+links local repo to github
+
+git push -u origin main
+-u flag to remember the remote repo and branch for future pushes.
+--------------------------------------------------------------------
+other devices
+
+download repo: 
+git clone <URL>
+
+pull updates + merge from github
+git pull origin main
+
+add new changes/files 
+git add .
+
+first you should commit them again
+git commit -m "Description of changes"
+
+
+and you can push them to github
+git push origin main
+
