@@ -14,6 +14,7 @@ Deadline Calculation: Using the current date and exam date, it calculates the to
 Event Creation: Generates individual events for each deadline, complete with a unique name and due date.
 
 Export to ICS: Allows the user to save the schedule as an .ics file that can be imported into calendar applications, like Google Calendar, for easy tracking.
+
 ---------------------------------------------------------
 
 This tool is ideal for creating structured study plans with intermediate goals, helping users stay on track as they prepare for exams.
