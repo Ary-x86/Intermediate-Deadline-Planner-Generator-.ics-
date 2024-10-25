@@ -18,3 +18,6 @@ Export to ICS: Allows the user to save the schedule as an .ics file that can be 
 ---------------------------------------------------------
 
 This tool is ideal for creating structured study plans with intermediate goals, helping users stay on track as they prepare for exams.
+
+# How to use
+Make sure you have python installed and working. Download main.py. Then run it using a terminal or in your IDE.
