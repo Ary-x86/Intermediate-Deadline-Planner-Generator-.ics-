@@ -77,6 +77,7 @@ if response.lower() != "y":
         quit()
 
 print("\nWonderful! Now please provide the Subject(code), what you want to divide the deadlines in, and the amount of divisions\nE.g. If you want to study FoCs, have 1 deadline for each of the 8 Lectures, write: FoCs, Lectures, 8")
+print("\nAnother example: You need to have to study week 5, 6, 7, 8 of EssoCS, write (EssoCS, Week, 4), you'll get the option later to make the events in calendar start from week 5 instead of 1.")
 
 user_input_subj_div_no = input("Enter Subject(code), division type, and number of divisions (e.g., FoCs, Lecture, 8): ")
 
